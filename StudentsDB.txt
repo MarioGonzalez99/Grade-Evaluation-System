@@ -1,0 +1,29 @@
++----------------------+---------+
+| Student name         | Grade   |
++----------------------+---------+
+| Adrian Flores        | 5.00    |
+| Alma Muñoz           | 6.00    |
+| Alex Fernández       | 9.00    |
+| Antonio Díaz         | 9.00    |
+| Leo Salazar          | 6.00    |
+| Daniela Sánchez      | 9.00    |
+| Sara Pérez           | 6.00    |
+| David Castillo       | 2.00    |
+| Valeria Acosta       | 6.00    |
+| Rocio Fernández      | 5.00    |
+| Laura Aguilar        | 5.00    |
+| Gabriela Cortés      | 5.00    |
+| Elena Miranda        | 6.00    |
+| Marta Núñez          | 6.00    |
+| Marco Silva          | 7.00    |
+| Alvaro Ortiz         | 5.00    |
+| Manuel González      | 7.00    |
+| Adriana Ramírez      | 5.00    |
+| Javier Rodríguez     | 8.00    |
+| 10                   | 10.00   |
++----------------------+---------+
+The minimum grade is: 2.00
+The maximum grade is: 10.00
+The average grade is: 6.35
+The most repeated grade(s): [6.0, 5.0] (freq: 6)
+The least repeated grade(s): [2.0, 8.0, 10.0] (freq: 1)
